@@ -1,0 +1,28 @@
+Package: opengl
+Version: 0.0
+Port-Version: 8
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 87a85b7e506937633802c9ebb9f938dc10ac5322cf48750dbbe192f83c801d3d
+Description: Open Graphics Library (OpenGL)[3][4][5] is a cross-language, cross-platform application programming interface (API) for rendering 2D and 3D vector graphics.
+Status: install ok installed
+
+Package: glew
+Version: 2.1.0
+Port-Version: 10
+Depends: opengl
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 94dbd3d2d27b04853abdb7f977c88e5e77c6fdcbfa1b8710236c9df7cb13076b
+Description: The OpenGL Extension Wrangler Library (GLEW) is a cross-platform open-source C/C++ extension loading library.
+Status: install ok installed
+
+Package: glfw3
+Version: 3.3.2
+Port-Version: 1
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 62188a790a912eef408544ca549e37ddfb8a11b275dc06b2d719cb6d5e09e7dd
+Description: GLFW is a free, Open Source, multi-platform library for OpenGL, OpenGL ES and Vulkan application development. It provides a simple, platform-independent API for creating windows, contexts and surfaces, reading input, handling events, etc.
+Status: install ok installed
+

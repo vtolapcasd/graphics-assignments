@@ -1,0 +1,6 @@
+C:/Users/BCA-PC09/Desktop/GraphicsAssignments/build-student/CMakeFiles/a1.dir
+C:/Users/BCA-PC09/Desktop/GraphicsAssignments/build-student/CMakeFiles/a2.dir
+C:/Users/BCA-PC09/Desktop/GraphicsAssignments/build-student/CMakeFiles/a3.dir
+C:/Users/BCA-PC09/Desktop/GraphicsAssignments/build-student/CMakeFiles/a4.dir
+C:/Users/BCA-PC09/Desktop/GraphicsAssignments/build-student/CMakeFiles/ALL_BUILD.dir
+C:/Users/BCA-PC09/Desktop/GraphicsAssignments/build-student/CMakeFiles/ZERO_CHECK.dir

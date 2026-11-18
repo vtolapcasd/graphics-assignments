@@ -1,0 +1,10 @@
+^C:\USERS\BCA-PC09\DESKTOP\GRAPHICSASSIGNMENTS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/BCA-PC09/Desktop/GraphicsAssignments -BC:/Users/BCA-PC09/Desktop/GraphicsAssignments/build-student --check-stamp-file C:/Users/BCA-PC09/Desktop/GraphicsAssignments/build-student/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
